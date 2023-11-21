@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Bhamburgermeny%7D/static/css/main.04dab37e.css",
+    "main.js": "/%7Bhamburgermeny%7D/static/js/main.e11baae3.js",
+    "static/js/787.b011a03d.chunk.js": "/%7Bhamburgermeny%7D/static/js/787.b011a03d.chunk.js",
+    "index.html": "/%7Bhamburgermeny%7D/index.html",
+    "main.04dab37e.css.map": "/%7Bhamburgermeny%7D/static/css/main.04dab37e.css.map",
+    "main.e11baae3.js.map": "/%7Bhamburgermeny%7D/static/js/main.e11baae3.js.map",
+    "787.b011a03d.chunk.js.map": "/%7Bhamburgermeny%7D/static/js/787.b011a03d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04dab37e.css",
+    "static/js/main.e11baae3.js"
+  ]
+}
