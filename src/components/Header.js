@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <div className="flex items-center justify-between bg-red-400 py-8 px-10">
       <a href="/">
-        <p className="text-4xl font-bold">LOGO</p>
+        <p className="text-3xl font-bold">LOGO</p>
       </a>
       <nav>
         <section className="MOBILE-MENU flex lg:hidden">
