@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hamburgermeny/static/css/main.5f4321dc.css",
-    "main.js": "/hamburgermeny/static/js/main.c9920ba2.js",
+    "main.css": "/hamburgermeny/static/css/main.0c5618cb.css",
+    "main.js": "/hamburgermeny/static/js/main.1d63e710.js",
     "static/js/787.b011a03d.chunk.js": "/hamburgermeny/static/js/787.b011a03d.chunk.js",
     "index.html": "/hamburgermeny/index.html",
-    "main.5f4321dc.css.map": "/hamburgermeny/static/css/main.5f4321dc.css.map",
-    "main.c9920ba2.js.map": "/hamburgermeny/static/js/main.c9920ba2.js.map",
+    "main.0c5618cb.css.map": "/hamburgermeny/static/css/main.0c5618cb.css.map",
+    "main.1d63e710.js.map": "/hamburgermeny/static/js/main.1d63e710.js.map",
     "787.b011a03d.chunk.js.map": "/hamburgermeny/static/js/787.b011a03d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f4321dc.css",
-    "static/js/main.c9920ba2.js"
+    "static/css/main.0c5618cb.css",
+    "static/js/main.1d63e710.js"
   ]
 }
